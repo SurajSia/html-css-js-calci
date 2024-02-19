@@ -8,4 +8,4 @@ Simple Calculator Using Javascript
 
 Made for fun while learning Javascript
 
-Domo: https:/surajsia.github.io/html-css-js-calci/
+Domo: https://surajsia.github.io/html-css-js-calci/
